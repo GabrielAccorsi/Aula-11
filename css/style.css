@@ -1,0 +1,35 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 1%;
+}
+button{
+    padding: 5px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px ;
+}
+h3{
+    background-color: rgb(161, 156, 156);
+    padding: 5px;
+    width: 400px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px ;
+}
+input{
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px ;
+    padding: 5px;
+}
+.resultado{
+    background-color: rgb(70, 69, 69);
+    color: antiquewhite;
+    margin: 10px;
+    width: 250px;
+    height: 250px;
+    display: flex;
+    transition: widh 0.10s heigth 0.10s;
+
+}
